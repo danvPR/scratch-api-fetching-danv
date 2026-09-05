@@ -37254,7 +37254,7 @@
         "active_dates": [
             "2026-09-05"
         ],
-        "last_comment_date": "2026-08-24",
+        "last_comment_date": "2026-08-25",
         "total_deducted": 0,
         "new_comments": [],
         "new_logs": [],
@@ -40868,23 +40868,29 @@
         "score": 100,
         "tier": "XS",
         "active_dates": [
-            "2026-08-06"
+            "2026-09-05"
         ],
-        "last_comment_date": "",
+        "last_comment_date": "2026-09-05",
         "total_deducted": 0,
         "new_comments": [],
         "new_logs": [],
-        "processed_comments": [],
+        "processed_comments": [
+            "331785599"
+        ],
         "processed_projects": [
             "1366394342",
-            "1366972659"
+            "1366972659",
+            "1374908333",
+            "1377234478"
         ],
         "processed_activities": [
             "addprojecttostudio-342584179",
-            "addprojecttostudio-342584178"
+            "addprojecttostudio-342584178",
+            "addprojecttostudio-346970202",
+            "addprojecttostudio-346970200"
         ],
         "projects_today": 2,
-        "last_project_date": "2026-08-06"
+        "last_project_date": "2026-09-05"
     },
     "4FThaiBao": {
         "score": 100,
@@ -43528,7 +43534,7 @@
         "active_dates": [
             "2026-09-05"
         ],
-        "last_comment_date": "2026-08-24",
+        "last_comment_date": "2026-08-25",
         "total_deducted": 0,
         "new_comments": [],
         "new_logs": [],
@@ -44683,7 +44689,9 @@
             "1377425373",
             "1377717309",
             "1378131318",
-            "1378355909"
+            "1378355909",
+            "1378421008",
+            "1378420394"
         ],
         "processed_activities": [
             "addprojecttostudio-335277122",
@@ -44778,9 +44786,11 @@
             "addprojecttostudio-346661569",
             "addprojecttostudio-346761908",
             "addprojecttostudio-346808265",
-            "addprojecttostudio-346913674"
+            "addprojecttostudio-346913674",
+            "addprojecttostudio-346967525",
+            "addprojecttostudio-346966794"
         ],
-        "projects_today": 1,
+        "projects_today": 3,
         "last_project_date": "2026-09-05"
     },
     "IntelPentiumIII": {
@@ -53264,7 +53274,8 @@
     "Kenvin_ten_programer": {
         "active_dates": [
             "2026-09-02",
-            "2026-09-03"
+            "2026-09-03",
+            "2026-09-05"
         ],
         "last_comment_date": "",
         "total_deducted": 10,
@@ -53309,7 +53320,8 @@
             "1377268596",
             "1377254890",
             "1323607932",
-            "1352838732"
+            "1352838732",
+            "1378424030"
         ],
         "processed_activities": [
             "removeprojectstudio-83394326",
@@ -53352,10 +53364,11 @@
             "addprojecttostudio-346411022",
             "addprojecttostudio-346409118",
             "addprojecttostudio-346466591",
-            "addprojecttostudio-346465073"
+            "addprojecttostudio-346465073",
+            "addprojecttostudio-346970410"
         ],
         "projects_today": 1,
-        "last_project_date": "2026-09-03"
+        "last_project_date": "2026-09-05"
     },
     "pilen7490": {
         "active_dates": [
@@ -67860,6 +67873,13 @@
             "author": "GOODMORNINGYOU0110",
             "content": "hồi n&atilde;y t&ocirc;i bị BSOD h&agrave;ng real của win10 l&uacute;c &dstrok;&oacute; t&ocirc;i su&yacute;t bị &dstrok;ứng tim",
             "datetime_created": "2026-09-05T14:11:18.000Z",
+            "replies": {}
+        },
+        "331785599": {
+            "id": "331785599",
+            "author": "NguyenQuocHuy-12345",
+            "content": "Ui giời ơi ae ạ, &dstrok;&atilde; l&acirc;u ng&agrave;y r chưa gặp c&aacute;i studio n&agrave;y lu&ocirc;n",
+            "datetime_created": "2026-09-05T23:17:21.000Z",
             "replies": {}
         }
     },
