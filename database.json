@@ -7884,7 +7884,7 @@
             "2026-09-04",
             "2026-09-05"
         ],
-        "last_comment_date": "2026-08-24",
+        "last_comment_date": "2026-08-25",
         "total_deducted": 5,
         "new_comments": [],
         "new_logs": [],
@@ -10382,7 +10382,7 @@
         "active_dates": [
             "2026-09-04"
         ],
-        "last_comment_date": "2026-08-25",
+        "last_comment_date": "2026-08-26",
         "total_deducted": 0,
         "new_comments": [],
         "new_logs": [],
@@ -30137,7 +30137,7 @@
         "score": 100,
         "tier": "XS",
         "active_dates": [
-            "2026-09-04"
+            "2026-09-06"
         ],
         "last_comment_date": "",
         "total_deducted": 0,
@@ -30145,13 +30145,15 @@
         "new_logs": [],
         "processed_comments": [],
         "processed_projects": [
-            "1377604558"
+            "1377604558",
+            "1189165759"
         ],
         "processed_activities": [
-            "addprojecttostudio-346679381"
+            "addprojecttostudio-346679381",
+            "addprojecttostudio-346981778"
         ],
         "projects_today": 1,
-        "last_project_date": "2026-09-04"
+        "last_project_date": "2026-09-06"
     },
     "najimi-chickan": {
         "score": 100,
@@ -43532,7 +43534,7 @@
         "score": 100,
         "tier": "XS",
         "active_dates": [
-            "2026-09-05"
+            "2026-09-06"
         ],
         "last_comment_date": "2026-08-25",
         "total_deducted": 0,
@@ -43606,7 +43608,8 @@
             "331687543",
             "331713395",
             "331765354",
-            "331759440"
+            "331759440",
+            "331790637"
         ],
         "processed_projects": [
             "1369896163",
@@ -67445,6 +67448,12 @@
                     "author": "phud123543",
                     "content": "t&ocirc;i giống bn phải dậy sớm",
                     "datetime_created": "2026-09-04T22:44:06.000Z"
+                },
+                "331790927": {
+                    "id": "331790927",
+                    "author": "jinipikachu",
+                    "content": "???????????????&zwj;&female;️",
+                    "datetime_created": "2026-09-06T00:53:04.000Z"
                 }
             }
         },
@@ -67880,6 +67889,13 @@
             "author": "NguyenQuocHuy-12345",
             "content": "Ui giời ơi ae ạ, &dstrok;&atilde; l&acirc;u ng&agrave;y r chưa gặp c&aacute;i studio n&agrave;y lu&ocirc;n",
             "datetime_created": "2026-09-05T23:17:21.000Z",
+            "replies": {}
+        },
+        "331790637": {
+            "id": "331790637",
+            "author": "gaua7_2",
+            "content": "ch&agrave;o buổi s&aacute;ng",
+            "datetime_created": "2026-09-06T00:48:29.000Z",
             "replies": {}
         }
     },
@@ -74258,5 +74274,21 @@
         "processed_activities": [],
         "projects_today": 1,
         "last_project_date": "2026-09-05"
+    },
+    "jinipikachu": {
+        "active_dates": [
+            "2026-09-06"
+        ],
+        "last_comment_date": "2026-09-06",
+        "total_deducted": 0,
+        "new_comments": [],
+        "new_logs": [],
+        "processed_comments": [
+            "331790927"
+        ],
+        "processed_projects": [],
+        "processed_activities": [],
+        "projects_today": 0,
+        "last_project_date": ""
     }
 }
